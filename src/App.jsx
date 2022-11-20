@@ -74,6 +74,7 @@ export default function App() {
             setDice(allNewDice());
             setGameStateHelper('rolls', 0);
             setGameStateHelper('tenzies', false);
+            setGameStateHelper('time', 0);
         }
     }
 
@@ -140,7 +141,7 @@ export default function App() {
                 time={gameState.time}
                 mode={mode}
             />
-            
+
             <div className="dieContainer">{diceElements}</div>
             <RollButton
                 tenzies={gameState.tenzies}
