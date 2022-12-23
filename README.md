@@ -1,4 +1,7 @@
-Welcome to Tenzies! This project was made to get started with the fundamentals of React, including state management and components.
+[![Tenzies](https://user-images.githubusercontent.com/95954371/209355291-4313ee28-36e7-462a-af27-bd78c8dc6353.png)](https://adietenzies.netlify.app)
+
+
+Welcome to Tenzies! This project was made to get started with the fundamentals of React, including state management and components. To check out this project head on over to https://adietenzies.netlify.app
 
 ## Technology Stack
 
